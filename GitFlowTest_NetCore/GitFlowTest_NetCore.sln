@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitFlowTest_NetCore", "GitFlowTest_NetCore\GitFlowTest_NetCore.csproj", "{993FE5AD-BECD-4C79-BF7F-3592819ADA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993FE5AD-BECD-4C79-BF7F-3592819ADA33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993FE5AD-BECD-4C79-BF7F-3592819ADA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993FE5AD-BECD-4C79-BF7F-3592819ADA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993FE5AD-BECD-4C79-BF7F-3592819ADA33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA4A4D4-CA70-451A-9D72-783E8EF21019}
+	EndGlobalSection
+EndGlobal

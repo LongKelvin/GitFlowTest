@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GitFlowTest_NetCore.props" />
+</Project>
